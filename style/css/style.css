@@ -1,0 +1,172 @@
+body{
+  font: 15px/1.5 Arial, Helvetica, San-serif
+  padding: 0;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+/*GLOBAL*/
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+.button_1{
+  height: 30px;
+  background: #e8491d;
+  border: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #ffffff;
+}
+#formPI{
+  position: center;
+  text-align:
+  background-color: #D2691E;
+}
+#formPI submit{
+  color: blue;
+}
+header{
+  background: #35424a;
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #e8491d 3px solid;
+}
+header a{
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+header ul{
+  margin: 0;
+  padding: 0;
+}
+header li{
+  float: left;
+  display: inline;
+  padding: 0 20px 0 20px;
+}
+header #branding{
+  float: left;
+}
+header #branding h1{
+  margin: 0;
+}
+header nav{
+  float: right;
+  margin-top: 10px;
+}
+header .highlight, header .current a{
+  color: #e8491d;
+  font-weight: bold;
+}
+hover  a:hover {
+  color: #cccccc;
+  font-weight: bold;
+}
+img #laugh{
+  width: 100%;
+  min-height: 300px;
+}
+#pol-I{
+  text-align: center;
+}
+#showcase {
+  min-height: 400px;
+  /* background: url('../images/laugh.jpg') no-repeat  0 -420px ; */
+  margin-right: 50 px;
+  text-align: center;
+  /* color: #ffffff; */
+}
+#showcase h1{
+  margin-top: 100px;
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+#showcase p {
+  font-size: 20px;
+}
+/* NEWSLETTER */
+#newsletter h1{
+  float: left;
+}
+#newsletter form {
+  float: right;
+  margin-top: 15px;
+}
+#newsletter input[type="email"]{
+  padding: 4px;
+  height: 25px;
+  width: 250px;
+}
+/*BOXES*/
+#boxes{
+  margin-top: 20px;
+}
+#boxes .box{
+  float: left;
+  text-align: center;
+  width: 30%
+  padding: 10px;
+}
+#boxes .box img{
+  width: 90px;
+}
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  color: ffffff;
+  background-color: #e8849d;
+  text-align: center;
+  .container button{
+    background-color: #FAEBD7;
+  }
+}
+#PI{
+  text-align: center;
+  background-position: center;
+  background:
+}
+#tw{
+  padding: 20px;
+  margin-top: 20px;
+  color: ffffff;
+  background-color: #A1A7B3;
+  text-align: center;
+}
+#1t{
+  position: center;
+}
+table, th, td{
+  width: 60%;
+  border: 1px Solid black;
+}
+  th{
+      height: 50%;
+      color: fade;
+    }
+  /* position: center; */
+
+ #aft-log{
+  width: 25%;
+}
+#res {
+  margin-bottom: 0;
+}
+#respass{
+  position: center;
+  background: cover;
+  width: 30%;
+}
+#respass input, label{
+  width: 70%;
+  margin: 10px;
+}
+#respass button{
+  margin-top: 5px;
+  margin-left: 80px;
+  width: 40%;
+}

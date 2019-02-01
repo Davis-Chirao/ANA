@@ -1,0 +1,198 @@
+/*  INDEX*/
+
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Railway')
+@import url('https://fonts.googleapis.com/css?family=Oswald')
+
+
+}
+
+h1, h3, h4, p {
+  text-align: center;
+}
+/* #log {
+  margin-left: 0px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+#sign {
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+#forg {
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+a {
+  float: right;
+  margin-top: 5px;
+} */
+
+
+
+
+/*  AFTER LOGGING --aft-login.html*/
+
+/* .topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+/*  */
+/* @import url('https://fonts.googleapis.com/css?family=Railway')
+@import url('https://fonts.googleapis.com/css?family=Oswald') */
+
+
+img {
+  background-image: url("../images/cheetah.jpg");
+  background-position: center center;
+  background-image: url(../style/images/cheetah.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin-left: 40px;
+
+}
+
+/* body {
+} */
+
+
+h1 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+a, h3 {
+  text-align: center;
+}
+a, a {
+  text-align: center;
+}
+
+
+
+/*LOGIN*/
+
+
+
+body {
+  margin: o;
+  padding 0;
+  font-family: 'Arial';
+  background-color: #3498db;
+}
+
+.wrap {
+  width: 450px;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 180px;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid silver;
+  border-radius: 5px;
+}
+.wrap h2{
+  text-align: center;
+  margin-bottom: 30px;
+}
+/* form {
+  width: 300px;
+  border: 3px solid #f1f1f1;
+  background-color: #333;
+} */
+.wrap input {
+  width: 400px;
+  height: 35px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border 1px Solid Silver;
+  padding: 5px;
+}
+.wrap .btn-login {
+  padding: 5px;
+  width: 413px;
+  height: 35px;
+  background-color: #3498db;
+  color: #fff;
+  border-radius: 3;
+  border: 0;
+  font-size: 18;
+}
+
+
+/*  SIGNUP*/
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+input  {
+  width: 30%;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+select {
+  width: 7%;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+label {
+  font-style: 1.2em;
+}
+input [type="Submit"] {
+  background-color: #4caf50;
+  color: 	#fff;
+  padding: 10px 20px;
+  border: none;
+  float: right
+  cursor: pointer;
+
+}
+
+/*  USER-VOTE*/
+
+
+
+/*  RESULTS*/
