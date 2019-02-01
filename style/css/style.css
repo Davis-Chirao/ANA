@@ -11,9 +11,12 @@ body{
   margin: auto;
   overflow: hidden;
 }
+#edit-party-butt {
+  margin-top: 10px;
+}
 .button_1{
   height: 30px;
-  background: #e8491d;
+  background: #e47154;
   border: 0;
   padding-left: 20px;
   padding-right: 20px;
